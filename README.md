@@ -32,5 +32,14 @@
 - [nbtscan](http://www.unixwiz.net/tools/nbtscan.html): This is a command-line tool that scans for open NETBIOS nameservers on a local or remote TCP/IP network, and this is a first step in finding of open shares.
 [METERPRETER](https://github.com/rapid7/metasploit-framework/wiki/Meterpreter): Metaspolit payload
 - [Bitvise](https://www.bitvise.com/): SSH client/server
+
+
 ### [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit): A collection of open source and commercial tools that aid in red team operations.
+
+
+
+#### [GoFetch](https://github.com/GoFetchAD/GoFetch) -
+это инструмент для автоматического осуществления плана атаки, созданного приложением BloodHound .
+
+GoFetch сначала загружает путь локальных пользователей-администраторов и компьютеров, созданных BloodHound, и преобразует его в свой собственный формат плана атаки. Как только план атаки готов, GoFetch продвигается к месту назначения в соответствии с планом, шаг за шагом, последовательно применяя методы удаленного выполнения кода и скомпрометируя учетные данные с Mimikatz.
 
